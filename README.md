@@ -7,6 +7,7 @@ Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara har
 ## Alur Program
 * User dapat menekan tombol WASD/arrow key pada keyboard untuk menggerakkan object
 * Tiap object berpindah misalkan dengan menekan tombol W maka score akan bertambah satu (tetapi jika benda sudah bergerak ke kanan lalu berhenti dan bergerak lagi ke kanan maka score tidak bertambah 2 tetapi hanya 1, score akan bertambah lagi ketika user menggerakan object berpindah ke arah yang lain)
+
 `Note : ` asal tidak bergerak ke arah yang sama secara beruntun
 
 ## Dokumentasi
